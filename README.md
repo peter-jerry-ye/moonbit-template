@@ -6,5 +6,7 @@
 
 ## 使用说明
 
-- `moon build`构建项目
-- `moon test`测试项目
+- `moon check` 检查项目
+- `moon build` 构建项目
+- `moon test` 测试项目
+- `moon clean` 清理项目
