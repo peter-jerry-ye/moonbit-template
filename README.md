@@ -10,3 +10,5 @@
 - `moon build` 构建项目
 - `moon test` 测试项目
 - `moon clean` 清理项目
+
+详细内容请参考[MoonBit构建系统教程](https://www.moonbitlang.cn/docs/build-system-tutorial/)
